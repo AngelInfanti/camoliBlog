@@ -39,3 +39,13 @@ body
 {
 	font-size: 20px;
 }
+
+#footer
+{
+	font-size: 20px;
+	background: #6E6E6E;
+	margin: 0;
+	padding: 10px;
+	color: white;
+	text-align: center;
+}
