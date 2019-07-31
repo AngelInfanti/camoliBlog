@@ -6,3 +6,7 @@
 
 Este README es un chiste para el proyecto del curso profesional de Git y GitHub en Platzi, por lo que no se lo debe de tomar enserio.
 * Realizado por el increíble Angel Infanti
+
+* Realizado por el increíble Angel Infanti
+* Me encanta mucho Vue.js
+* Tambien me gusta mucho pokemon
